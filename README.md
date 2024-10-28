@@ -39,3 +39,8 @@ The analysis utilizes a dataset including various attributes such as order ID, p
 ## Outcome
 This project aims to guide the e-commerce company in making data-driven decisions to improve revenue, customer satisfaction, and operational efficiency.
 
+## Connect with the Project Lead
+**Ravi Kumar**  
+[LinkedIn Profile](https://www.linkedin.com/in/ravi-kumar-28a905256)
+
+
